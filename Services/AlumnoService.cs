@@ -16,8 +16,8 @@ namespace Becas.Services
         static AlumnoService ()
         {
             Alumnos = new List <Alumno> {
-                new Alumno {Id = 1, Nombres = "Gamaliel ", ApellPat = "Garcia ", ApellMat = "Gomez ", Matricula = "2308986 ", Carrera = "T.S.U Tecnologias de la informacion ", Correo = "garciagomezgamaliel@gmail.com ", Telefono = "9821075495 ", Origen = "candelaria ", Estancia = "candelaria " },
-                new Alumno {Id = 2, Nombres = " lazaro", ApellPat = "sanchez ", ApellMat = "Sanchez ", Matricula = "2396708 ", Carrera = "T.S.U Tecnologias de la informacion ", Correo = "lazaro235@gmail.com ", Telefono = " 9821456789", Origen = "San Manuel ", Estancia = "Candelaria " },
+                new Alumno {Id = 1, Nombres = "mayra ", ApellPat = "medina", ApellMat = "balan ", Matricula = "37373773 ", Carrera = "T.S.U Tecnologias de la informacion ", Correo = "mayrabalan@gmail.com ", Telefono = "9821039430 ", Origen = "Aro ", Estancia = "candelaria " },
+                
             };
         }
 
