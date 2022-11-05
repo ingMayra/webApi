@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Becas.service;
+using Becas.Services;
 using Becas.Models;
 using Microsoft.EntityFrameworkCore;
 
